@@ -16,3 +16,28 @@
 - Directives - [go to](https://github.com/techo-anant/Notes/blob/main/Angular/11__angular_directives.pdf)
 - Pipes - [go to](https://github.com/techo-anant/Notes/blob/main/Angular/12__pipes.pdf)
 
+### **APIs** ###
+- Common terms and types of APIs - [go to](https://github.com/techo-anant/Notes/blob/main/APIs/1._common-terms-%26-types-of-APIs.pdf)
+- Languages & Databases - [go to](https://github.com/techo-anant/Notes/blob/main/APIs/2._languages-%26-databases.pdf)
+- Backend Architecture - [go to](https://github.com/techo-anant/Notes/blob/main/APIs/3._backend-architecture.pdf)
+
+### **TypeScript** ###
+- General Differences between TS & JS - [go to](https://github.com/techo-anant/Notes/blob/main/TypeScript-Crash-Course/0._typescript-crash-course-2021.pdf)
+- Functions in TS - [go to](https://github.com/techo-anant/Notes/blob/main/TypeScript-with-AI/1._functions-ts-with-AI.pdf)
+- String Functions in TS *Part-1* - [go to](https://github.com/techo-anant/Notes/blob/main/TypeScript-with-AI/2._string_functions_part1.pdf)
+- **More Comming**
+
+
+### **Next.js** ###
+- Setup & Navigation - [go to](https://github.com/techo-anant/Notes/blob/main/NEXTjs/1.setup-%26-navigation.pdf)
+- React Components - [go to](https://github.com/techo-anant/Notes/blob/main/NEXTjs/2.react-components.pdf)
+- Routing - [go to](https://github.com/techo-anant/Notes/blob/main/NEXTjs/3.routing.pdf)
+
+### **Setups** ###
+- **Angular** - [go to](https://github.com/techo-anant/Notes/blob/main/Setup/angular-setup/setup_%26_navigation.pdf)
+- **Express.js** - [go to](https://github.com/techo-anant/Notes/blob/main/Setup/express-js-setup/express-server-%26-environment.pdf)
+- **Next.js** - [go to](https://github.com/techo-anant/Notes/blob/main/Setup/next-js-setup/setup-%26-navigation.pdf)
+
+## Upcomming ##
+**Docker**
+
