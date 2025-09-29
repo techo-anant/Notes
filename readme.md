@@ -33,11 +33,20 @@
 - React Components - [go to](https://github.com/techo-anant/Notes/blob/main/NEXTjs/2.react-components.pdf)
 - Routing - [go to](https://github.com/techo-anant/Notes/blob/main/NEXTjs/3.routing.pdf)
 
+### **Docker** ###
+- Introduction - [go to](https://github.com/techo-anant/Notes/blob/main/Docker/1__docker_introduction.pdf)
+- Namespaces & Control groups - [go to](https://github.com/techo-anant/Notes/blob/main/Docker/2__namespaces_%26_control_groups.pdf)
+- Docker CLI - [go to](https://github.com/techo-anant/Notes/blob/main/Docker/3__docker_cli.pdf)
+- Docker Containers - [go to](https://github.com/techo-anant/Notes/blob/main/Docker/4__docker_containers.pdf)
+- Docker Hub - [go to](https://github.com/techo-anant/Notes/blob/main/Docker/5__docker_hub.pdf)
+- Some Useful Commands - [go to](https://github.com/techo-anant/Notes/blob/main/Docker/6__useful_commands.pdf)
+
+
 ### **Setups** ###
 - **Angular** - [go to](https://github.com/techo-anant/Notes/blob/main/Setup/angular-setup/setup_%26_navigation.pdf)
 - **Express.js** - [go to](https://github.com/techo-anant/Notes/blob/main/Setup/express-js-setup/express-server-%26-environment.pdf)
 - **Next.js** - [go to](https://github.com/techo-anant/Notes/blob/main/Setup/next-js-setup/setup-%26-navigation.pdf)
 
 ## Upcomming ##
-**Docker**
+**Docker Compose**
 
